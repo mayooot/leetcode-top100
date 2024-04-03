@@ -1,4 +1,4 @@
-package _3_Longest_Substring_Without_Repeating_Characters
+package _3_LongestSubstringWithoutRepeatingCharacters
 
 func lengthOfLongestSubstring(s string) int {
 	if len(s) == 0 {
